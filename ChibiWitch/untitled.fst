@@ -14,3 +14,4 @@ freeJoint = LeftArm
 freeJoint = LeftForeArm
 freeJoint = RightArm
 freeJoint = RightForeArm
+bs = JawOpen = vrc.v_aa = 1
