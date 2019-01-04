@@ -14,3 +14,6 @@ freeJoint = LeftArm
 freeJoint = LeftForeArm
 freeJoint = RightArm
 freeJoint = RightForeArm
+bs = JawOpen = vrc.v_aa = 1
+bs = EyeBlink_L = vrc.blink_left = 1
+bs = EyeBlink_R = vrc.blink_right = 1
